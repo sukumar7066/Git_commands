@@ -2,14 +2,8 @@ hello this is my first commit
 
 git clone <repository url> >> for cloning a repository from github
 
-<<<<<<< HEAD
 git branch newbranch
 
 git switch newbranch
 
 git pull 
-=======
-hello 
-
-helloworld
->>>>>>> e70e91be226138cb92189adb89f0f8a72a768cfc
